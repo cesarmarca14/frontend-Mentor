@@ -5,4 +5,54 @@
 
 body{
     width: 1440px;
+    background-color: #0D1323 ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.container-first{
+    padding-top: 300px;
+    
+}
+.containter-jeremy{
+    display: flex;
+    flex-direction: column;
+
+}
+.report-for {
+    background-color: #5746EA;
+    border-radius: 10px;
+    padding-bottom: 60px;
+    
+  }
+  .container-text{
+    padding: 30px 0px 0px 25px;
+  }
+  .jeremy-text {
+    font-size: 50px;
+    color: white;
+    font-weight: 300;
+  }
+  .report{
+    color: #A299FF;
+  }
+  .img_jeremy {
+    width: 30%;
+    border-radius: 100%;
+    padding: 20px 0px 0px 15px; 
+}
+.time{
+    background-color: #1D204B;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius:10px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    color: #7276B5;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.times{
+    padding: 10px 0 10px 0;
 }
