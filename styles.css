@@ -23,8 +23,8 @@ body {
 .container-jeremy{
   display: flex;
   flex-direction: column;
-  height: 355px;
-  border: solid rgb(21, 255, 0);
+  height: 455px;
+  /* border: solid rgb(21, 255, 0); */
   
 }
 /* cambiar */
@@ -36,7 +36,7 @@ body {
   border: solid;
   width: 220px;
   /* margin-top: 200px; */
-  border: solid red;
+  /* border: solid red; */
 }
 .container-text {
   padding: 10px 0px 0px 15px;
@@ -62,15 +62,15 @@ body {
   margin-left: 10px;
 }
 .time {
-  height: 350px;
+  height: 750px;
   background-color: #1d204b;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   display: flex;
   flex-direction: column;
-  padding-left: 20px;
+  /* padding-left: 20px; */
   color: #7276b5;
-  margin-bottom: 230px;
+  /* margin-bottom: 230px; */
   padding-top: 10px;
   /* border: solid yellow; */
 }
